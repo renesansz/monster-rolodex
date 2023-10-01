@@ -1,0 +1,10 @@
+.cardsList {
+  width: 75vw;
+  min-height: 50vh;
+  margin-bottom: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1.5rem;
+  overflow: auto;
+  padding: 1rem;
+}
